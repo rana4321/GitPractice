@@ -1,3 +1,9 @@
+
 Testers
 1.Do the smoke test 
 2.Do functional test
+
+Devops
+1.creatwar file
+2. use jenkins
+
