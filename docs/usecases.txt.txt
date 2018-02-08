@@ -1,0 +1,3 @@
+Testers
+1.Do the smoke test 
+2.Do functional test
